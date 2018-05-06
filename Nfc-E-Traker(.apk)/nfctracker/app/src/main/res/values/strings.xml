@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NFCTracker (BETA)</string>
+    <string name="user_admin">Admin (BETA)</string>
+    <string name="user_officer">Officer (BETA)</string>
+    <string name="user_worker">Worker (BETA)</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nfc">Read NFC</string>
+    <string name="menuLogout">Logout</string>
+    <string name="menuAbout">About</string>
+    <string name="btnLogin">Login</string>
+</resources>
