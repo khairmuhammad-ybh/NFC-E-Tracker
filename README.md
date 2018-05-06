@@ -1,5 +1,5 @@
 # NFC-E-Tracker
-A mobile tracker to track onsite workers with their mobile phone. Make an attendace sign-in/sign-out system with mobile devices. Can be used for construction or maintenance companies, where they require a system to track their onsite workers on duty.
+A mobile tracker app to track onsite workers with their mobile phone. Make an attendance sign-in/sign-out system with mobile devices. Can be used for construction or maintenance companies, where they require a system to track their onsite workers on duty.
 
 ## DISCLAIMER
 This is my few android projects i did on my own where i explore almost all of android features to expands my knowledge into android programming and improve my learning curves.
