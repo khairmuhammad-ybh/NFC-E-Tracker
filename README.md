@@ -24,11 +24,11 @@ Sufficent enough to protect from SQL-injection and basic instrusions, every mobi
 ###### DATABASE
 1. Import the SQL file in your phpmyadmin or Mysql Workbench
 
-> Filename: _nfctracker.sql_
+   > Filename: _nfctracker.sql_
 
 2. Change to your database information in _db.php_
 
-> Path: _Nfc-E-Tracker(Server)\db.php_
+   > Path: _Nfc-E-Tracker(Server)\db.php_
 ```
 <?php
 $connection = mysql_connect('localhost', 'root', 'pass');
@@ -43,13 +43,15 @@ if (!$select_db){
 ```
 
 ###### ANDROID APP
-1. Open the project in 'Android Studio'
+1. Download _Nfc-E-Traker(.apk).part1_ & _Nfc-E-Traker(.apk).part2_
+2. Extract _Nfc-E-Traker(.apk).part1_
+3. Open the project in 'Android Studio'
 
-> Path: _Nfc-E-Traker(.apk)\nfctracker_
+   > Path: _Nfc-E-Traker(.apk)\nfctracker_
 
-2. Build project (Fix gradle issue first before build)
-3. Go to Build -> Build APK(s)
-4. Install to mobile phone and start using it
+4. Build project (Fix gradle issue first before build)
+5. Go to Build -> Build APK(s)
+6. Install to mobile phone and start using it
 
 
 ###### CREDENTIAL
