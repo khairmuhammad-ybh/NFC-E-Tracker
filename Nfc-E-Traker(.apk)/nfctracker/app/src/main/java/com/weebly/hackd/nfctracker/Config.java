@@ -5,13 +5,13 @@ package com.weebly.hackd.nfctracker;
  */
 public class Config {
     //public static final String DATA_URL = "http://localhost/appFetchAccountType.php?username=";     //Local Test
-    public static final String DATA_URL = "http://nfctracker.esy.es/appFetchAccountType.php?username=";   //Server
+    public static final String DATA_URL = "http://<your domain name>/appFetchAccountType.php?username=";   //Server
     //public static final String UPDATE_RECORD = "http://localhost/appTagStoring.php";    //Local Test
-    public static final String UPDATE_RECORD = "http://nfctracker.esy.es/appTagStoring.php"; //Server
+    public static final String UPDATE_RECORD = "http://<your domain name>/appTagStoring.php"; //Server
     //public static final String USER_VERIFY = "http://localhost/userVerifier.php";    //Local Test
-    public static final String USER_VERIFY = "http://nfctracker.esy.es/userVerifier.php";    //Server
+    public static final String USER_VERIFY = "http://<your domain name>/userVerifier.php";    //Server
     //public static final String WEB_LOGIN = "http://localhost/";     //Local Test
-    public static final String WEB_LOGIN = "http://nfctracker.esy.es/";     //Server
+    public static final String WEB_LOGIN = "http://<your domain name>/";     //Server
 
     //$_GET REQUEST
     public static final String KEY_NAME = "name";
